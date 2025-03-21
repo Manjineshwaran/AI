@@ -1,0 +1,21 @@
+Date,time,Country,city,Age,Salary,Star,level,true/false,Purchased,Weight,power,allow
+01-01-2020,01-01-2020- 12:01-AM,Australia,sydney,27,52000,7.4565,low,TRUE,Yes,1,55,0
+02-01-2020,01-01-2020- 12:01-AM,Russia,moscow,25,49000,7.4565,medium,FALSE,Yes,2,34,0
+03-01-2020,01-01-2020- 12:01-AM,India,chennai,30,56000,4.455,high,TRUE,No,3,65,0
+04-01-2020,01-01-2020- 12:01-AM,Russia,saint peterburg,29,54000,4.455,low,FALSE,No,4,67,0
+05-01-2020,01-01-2020- 12:01-AM,India,pondicherry,35,58000,4.455,medium,TRUE,Yes,5,98,1
+01-03-2021,01-01-2020- 12:01-AM,Russia,kazan,36,60000,8.4565,high,FALSE,Yes,6,23,1
+02-03-2021,01-01-2020- 12:01-AM,India,kotagiri,37,61000,8.4565,low,TRUE,Yes,7,87,1
+03-03-2021,01-01-2020- 12:01-AM,Australia,canberra,41,67000,8.485,medium,FALSE,Yes,8,34,1
+04-03-2021,01-01-2020- 12:01-AM,Australia,melbourne,38,65000,8.5565,high,TRUE,No,9,56,1
+05-03-2021,01-01-2020- 12:01-AM,Russia,moscow,39,66000,5,low,FALSE,No,10,23,1
+01-05-2022,01-01-2020- 12:01-AM,Australia,sydney,,,-6.1526,medium,TRUE,Yes,11,76,1
+02-05-2022,01-01-2020- 12:01-AM,India,chennai,17,72000,5.645,high,FALSE,No,12,23,0
+03-05-2022,01-01-2020- 12:01-AM,Russia,saint peterburg,29,,9.654,low,TRUE,Yes,13,87,0
+04-05-2022,01-01-2020- 12:01-AM,India,pondicherry,44,72000,10,medium,FALSE,No,14,55,1
+05-05-2022,01-01-2020- 12:01-AM,Russia,kazan,48,79000,-8.654,high,TRUE,Yes,15,65,1
+01-07-2023,01-01-2020- 12:01-AM,India,kotagiri,47,78000,-7.543,low,FALSE,Yes,16,,1
+02-07-2023,01-01-2020- 12:01-AM,Australia,canberra,18,83000,1.0021,medium,TRUE,No,17,,0
+03-07-2023,01-01-2020- 12:01-AM,Russia,moscow,,85000,-5.235,high,FALSE,No,18,54,1
+04-07-2023,01-01-2020- 12:01-AM,India,chennai,1,61000,3.526,low,TRUE,No,19,23,0
+05-07-2023,01-01-2020- 12:01-AM,Australia,melbourne,100,58000,zero,medium,FALSE,No,20,23,1
